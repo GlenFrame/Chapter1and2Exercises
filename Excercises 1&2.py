@@ -50,7 +50,7 @@ seconds_per_mile = seconds/miles
 minutes_and_seconds = seconds_per_mile/60
 average_speed = 1/(minutes_and_seconds/60)
 print(seconds, miles, seconds_per_mile, minutes_and_seconds, average_speed)
-# Chapter 2 --- my excercise 1 was better because the professor didn't include the 12 = n question, but his printing is still better... for exercise 2 I could have improved my answer by using a if statement like the one the professor used. 
+# Chapter 2 --- my excercise 1 was better because the professor didn't include the 17 = n question, but his printing is still better... for exercise 2 I could have improved my answer by using a if statement like the one the professor used.
 import math
 # 17 = n illegal - a variable cannot start with a number
 x = y = 1 # legal
